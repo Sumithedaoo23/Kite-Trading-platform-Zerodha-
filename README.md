@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-ils-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 
 A full-stack trading platform inspired by Zerodha’s Kite, built with React.js, JavaScript, MongoDB, and Bootstrap, with charting features powered by Chart.js and user authentication implemented for secure access. This project simulates a real-world stock trading dashboard where users can sign up, log in, track stock data, view interactive charts, and manage their portfolio in a visually clean and responsive interface.
 
